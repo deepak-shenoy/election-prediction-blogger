@@ -1,4 +1,4 @@
-# Proof of Concept: Election Prediction Blogger
+# Election Prediction Blogger
 ## Overview
 Website to allow defined users to make a presidential election prediction and to add comments.
 ## Graphical Representation
